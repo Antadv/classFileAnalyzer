@@ -34,7 +34,7 @@ public class ClassInfo {
                 .append("minor version: ").append(minorVersion).append("\n")
                 .append("major version: ").append(majorVersion).append("\n")
                 .append("Access flags: ").append(accessFlags).append("\n").append("\n")
-                .append("Constant pool:").append("\n")
+                .append("Constant pool: ").append(constantPoolCount).append("\n")
                 .append(cpInfo.getContent()).append("\n")
                 .append("Class FQN: ").append(classFullyQualifiedName).append("\n")
                 .append("Super class FQN: ").append(superClassFullyQualifiedName).append("\n").append("\n");

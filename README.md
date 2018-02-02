@@ -99,7 +99,7 @@ public void test() throws Exception {
     major version: 51
     Access flags: ACC_PUBLIC ACC_SUPER 
     
-    Constant pool:
+    Constant pool: 46
     #1=Methodref java/lang/Object.<init>:()V
     #2=Fieldref com/somelogs/bug/TestClass.m:I
     #3=Fieldref com/somelogs/bug/TestClass.A:I
