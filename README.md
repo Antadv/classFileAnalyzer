@@ -1,12 +1,12 @@
 ## ClassFileAnalyzer
 
-Java 解析 class 文件
+Java 解析 class 文件，理解 class 文件结构 
 
 详细参考[自己动手解析 Class 文件](https://somelogs.com/article/analyze-class)
 
 ## class demo
 
-源码
+示例代码
 
 ```java
 package com.somelogs.bug;
